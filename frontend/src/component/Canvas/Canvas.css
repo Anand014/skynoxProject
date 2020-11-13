@@ -1,0 +1,49 @@
+.header {
+  margin-left: 11rem;
+}
+
+#canvas {
+  border: 1px solid black;
+  margin-top: 1rem;
+  margin-left: 22rem;
+}
+
+.btndiv {
+  margin-top: 1rem;
+  margin-left: 44.5rem;
+}
+
+.btn {
+  position: relative;
+  background-color: #222831;
+  border: none;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #fff;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.clear {
+  position: relative;
+  background-color: #778cac;
+  border: none;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: #fff;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.color {
+  margin-left: 55rem;
+}
